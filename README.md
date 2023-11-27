@@ -11,7 +11,7 @@ The system consists of:
 
 # Connection
 | System  | Communication | Solution used |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- | 
 | Ventilation | Modbus   | ESP+MAX485 |
 | Floorheating  | Modbus I2C  | https://www.nrgwatch.nl/product/itho-non-cve-wifi-module/ |
 | Warmtepomp  | Modbus I2C  | https://www.nrgwatch.nl/product/itho-non-cve-wifi-module/ |
