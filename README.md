@@ -8,3 +8,13 @@ The system consists of:
 - Temperature: Itho Daalderop Spider
 - CO2: Itho Daalderop RFT CO2 sensor
 
+
+# Connection
+| System  | Communication | Solution used |
+| ------------- | ------------- |
+| Ventilation | Modbus   | ESP+MAX485 |
+| Floorheating  | Modbus I2C  | https://www.nrgwatch.nl/product/itho-non-cve-wifi-module/ |
+| Warmtepomp  | Modbus I2C  | https://www.nrgwatch.nl/product/itho-non-cve-wifi-module/ |
+| Temperature  | Ramses II (886 MHz)  | https://indalo-tech.onlineweb.shop/ |
+| CO2 | Ramses II (886 MHz)  | https://indalo-tech.onlineweb.shop/ (Same stick as above) |
+
