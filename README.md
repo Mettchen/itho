@@ -10,11 +10,11 @@ The system consists of:
 
 
 # Connection
-| System  | Communication | Solution used |
-| ------------- | ------------- | ------------- | 
-| Ventilation | Modbus   | ESP+MAX485 |
-| Floorheating  | Modbus I2C  | https://www.nrgwatch.nl/product/itho-non-cve-wifi-module/ |
-| Warmtepomp  | Modbus I2C  | https://www.nrgwatch.nl/product/itho-non-cve-wifi-module/ |
-| Temperature  | Ramses II (886 MHz)  | https://indalo-tech.onlineweb.shop/ |
-| CO2 | Ramses II (886 MHz)  | https://indalo-tech.onlineweb.shop/ (Same stick as above) |
+| System  | Communication | Solution used | Supported from | 
+| ------------- | ------------- | ------------- | ------------- |
+| Ventilation | Modbus   | ESP+MAX485 | Heating Service | 
+| Floorheating  | Modbus I2C  | https://www.nrgwatch.nl/product/itho-non-cve-wifi-module/ | Heating Service | 
+| Warmtepomp  | Modbus I2C  | https://www.nrgwatch.nl/product/itho-non-cve-wifi-module/ | Klimaatgarant | 
+| Temperature  | Ramses II (886 MHz)  | https://indalo-tech.onlineweb.shop/ | Heating Service | 
+| CO2 | Ramses II (886 MHz)  | https://indalo-tech.onlineweb.shop/ (Same stick as above) | Heating Service | 
 
