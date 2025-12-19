@@ -16,5 +16,5 @@ The system consists of:
 | Floor heating  | I2C  | https://www.nrgwatch.nl/product/itho-non-cve-wifi-module/ | Heating Service | 
 | Warmtepomp  | I2C  | https://www.nrgwatch.nl/product/itho-non-cve-wifi-module/ | Klimaatgarant | 
 | Temperature  | I2C  | Read through floor heating | Heating Service | 
-| CO2 | Ramses II (886 MHz)  | https://indalo-tech.onlineweb.shop/ (Same stick as above) | Heating Service | 
+| CO2 | Ramses II (886 MHz)  | https://indalo-tech.onlineweb.shop/ | Heating Service | 
 
